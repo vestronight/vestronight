@@ -13,7 +13,6 @@ Hey there! I'm a passionate Software Engineer who thrives on building high-perfo
 ⚡ Languages: JavaScript, TypeScript<br/>
 
 💡 What drives me?<br/>
-
 🚀 Crafting performant, scalable, and maintainable applications<br/>
 🛠️ Leveraging modern frameworks and best practices<br/>
 💎 Writing clean and efficient code<br/>
