@@ -17,7 +17,6 @@ Hey there! I'm a passionate Software Engineer who thrives on building high-perfo
 🛠️ Leveraging modern frameworks and best practices<br/>
 💎 Writing clean and efficient code<br/>
 🤖 Automating workflows and optimizing developer experience<br/>
-
 📌 Always exploring, always building. <br/>
 
 ### <p align="center">My GitHub stats</p>
